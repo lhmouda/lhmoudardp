@@ -1,4 +1,4 @@
-name: lhmoudaRDP
+name: amazonRDP
 
 on: workflow_dispatch
 
